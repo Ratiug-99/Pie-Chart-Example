@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "PieChartExample"
 include ':app'
+include ':MPChartLib'
