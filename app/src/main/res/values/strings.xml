@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PieChartExample</string>
+    <string name="rating_of_programming_languages_2021">Rating of usage programming languages 2021</string>
 </resources>
